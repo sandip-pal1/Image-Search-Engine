@@ -27,7 +27,8 @@ This is a simple and responsive **Image Search Engine** built using **HTML, CSS,
 
 ## 📸 Preview
 
-*(You can add a screenshot here if you want)*
+ [Uploading style.css…]()![Screenshot 2025-04-23 103452](https://github.com/user-attachments/assets/023d39b4-ce03-46b6-a4e0-aba1c3c6519d)
+
 
 ## 🧑‍💻 Developed By
 
